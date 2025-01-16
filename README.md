@@ -19,7 +19,7 @@ If you propose a new topic, ensure it aligns with our lab's domain. Provide a cl
 
 ### 1. **Quantifying Non-Verbal Communication Using Gaze Detection Algorithms**
 - **Macro-category:** Computational Models, Non-verbal Communication
-- **Summary:** Gaze patterns provide insights into attention, engagement, and emotional states. Leveraging advanced algorithms (e.g., Moondream 2B) can deepen our understanding of human interactions.
+- **Summary:** Gaze patterns provide insights into attention, engagement, and emotional states. Leveraging novel techniques and models (e.g., Moondream 2B) can help deepen our understanding of human interactions.
 - **Applications:** Social robotics, education platforms, therapy tools, and adaptive interactive systems.
 
 ### 2. **Posture Quality Quantification Using Conformal Predictions**
@@ -29,7 +29,7 @@ If you propose a new topic, ensure it aligns with our lab's domain. Provide a cl
 
 ### 3. **Automated Multi-Modal Video Summarization for Long Podcasts or Videos**
 - **Macro-category:** Saliency
-- **Summary:** With growing digital content, efficient summarization techniques are crucial. Combining audio processing, signal analysis, and text understanding enables meaningful short video creation. More importantly, we are able to understand context and saliency of topics within a conversations.
+- **Summary:** With growing digital content, efficient summarization techniques are helpful. Combining audio processing, signal analysis, and text understanding helps extract meaningful short video creation. More importantly, we are able to understand context and saliency of topics within a conversations.
 - **Applications:** Social media content, podcast highlights, educational material, and marketing campaigns.
 
 ### 4. **Motion-Aware Animation Framework for Embodied Environments Using Three.js**
@@ -40,7 +40,7 @@ If you propose a new topic, ensure it aligns with our lab's domain. Provide a cl
 ---
 
 ## Contribution Guidelines
-We welcome contributions and discussions. Ensure your proposals align with the lab's mission to integrate technology and art. For queries or feedback, contact us at antoniocamurri@gmail.com or gualtiero.volpe@unige.it.
+Contributions and discussions are welcome. Ensure your proposals align with the lab's objectives to integrate technology and art. For queries or feedback, contact us at antoniocamurri@gmail.com or gualtiero.volpe@unige.it.
 
 - To propose new topics or extend existing ones, create a pull request.
 - Include a detailed description of your research idea, including its summary, approach, and potential applications.
