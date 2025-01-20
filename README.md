@@ -37,6 +37,16 @@ If you propose a new topic, ensure it aligns with our lab's domain. Provide a cl
 - **Summary:** Real-time motion-based animations enhance immersive experiences by linking movement features to dynamic visuals. These systems engage users through interactive feedback.
 - **Applications:** Museum exhibits, rehabilitation programs, therapeutic environments, and immersive art installations.
 
+### 5. **Class-Conditioned VAE for Trajectory Generation**
+- **Macro-category:** Generative Models, Human Motion Synthesis
+- **Summary:** Human motion generation plays a vital role in virtual reality, robotics, and animation. This study focuses on developing a class-conditioned Variational Autoencoder (VAE) to synthesize expressive 3D motion sequences by leveraging novel conditioning techniques.
+- **Applications:** Virtual reality avatars, robotics navigation, animation tools, and interactive systems emphasizing expressive motion synthesis.
+
+### 6. Video-Language Model for Expressive Qualities of Movement Annotations
+- **Macro-category**: Video Annotation
+- **Summary**: This thesis explores using Video-Language Models (Vid-LLMs) to enhance video annotation of expressive movement qualities and motion segmentation. It investigates state-of-the-art Vid-LLMs, their capabilities, and the feasibility of fine-tuning them on a small CP dataset.
+- **Applications**: Video editing, motion analysis, choreography annotation, and multimodal interaction systems.
+
 ---
 
 ## Contribution Guidelines
