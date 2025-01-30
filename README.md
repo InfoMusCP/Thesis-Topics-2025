@@ -27,7 +27,7 @@ If you propose a new topic, ensure it aligns with our lab's domain. Provide a cl
 - **Summary:** Posture impacts health and ergonomics, yet assessment methods often lack robustness. Conformal prediction offers uncertainty quantification, enabling reliable feedback.
 - **Applications:** Physiotherapy tools, workplace health monitoring, fitness training, and ergonomic software.
 
-### 3. **Automated Multi-Modal Video Summarization for Long Podcasts or Videos**
+### 3. **Automated audio/video semantic segmentation using Vision Language Models**
 - **Macro-category:** Saliency
 - **Summary:** With growing digital content, efficient summarization techniques are helpful. Combining audio processing, signal analysis, and text understanding helps extract meaningful short video creation. More importantly, we are able to understand context and saliency of topics within a conversations.
 - **Applications:** Social media content, podcast highlights, educational material, and marketing campaigns.
