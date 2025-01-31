@@ -29,7 +29,7 @@ If you propose a new topic, ensure it aligns with our lab's domain. Provide a cl
 
 ### 3. **Automated audio/video semantic segmentation using Vision Language Models**
 - **Macro-category:** Saliency
-- **Summary:** With growing digital content, efficient summarization techniques are helpful. Combining audio processing, signal analysis, and text understanding helps extract meaningful short video creation. More importantly, we are able to understand context and saliency of topics within a conversations.
+- **Summary:** With growing digital content, efficient summarization techniques are helpful. Combining audio processing, signal analysis, and text understanding helps extract salient, relevant, and relevant audio-video segments.
 - **Applications:** Social media content, podcast highlights, educational material, and marketing campaigns.
 
 ### 4. **Motion-Aware Animation Framework for Embodied Environments Using Three.js**
